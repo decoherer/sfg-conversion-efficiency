@@ -123,7 +123,7 @@ multiple lines. (The figure is from Helmfrid and Arvidsson,
 Second-harmonic generation in quasi-phase-matching waveguides with a
 multimode pump (1991).)
 
-![](./media/image1.emf){width="4.0in" height="3.64741469816273in"}
+![](./media/image1.png)
 
 **4. SHG in the presence of loss**
 
