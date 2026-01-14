@@ -220,6 +220,14 @@ Estimate QE with output loss of λ<sub>3</sub>:
 
 QE = sin²√(ηL²P<sub>1</sub>(λ<sub>3</sub>/λ<sub>2</sub>)) × 10<sup>-(loss/10)L/2</sup>
 
+Formula for QE when not phase matched (nonzero Δk):
+
+θ₀ ≡ √\[ η<sub>SFG</sub> L² P<sub>1</sub> (λ<sub>3</sub>/λ<sub>2</sub>) \]
+
+θ ≡ √\[ θ₀² + (ΔkL/2)² \]
+
+QE = (θ₀²/θ²) sin²(θ)
+
 Coupled wave equations
 ----------------------
 
