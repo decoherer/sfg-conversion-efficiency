@@ -214,7 +214,11 @@ Quantum frequency conversion
 
 QE = sin²√\[ η<sub>SFG</sub> L² P<sub>1</sub> (λ<sub>3</sub>/λ<sub>2</sub>) \]
 
-P<sub>3</sub> = P<sub>2</sub> (λ<sub>3</sub>/λ<sub>2</sub>) sin²√\[ η<sub>SFG</sub> L² P<sub>1</sub> (λ<sub>3</sub>/λ<sub>2</sub>) \]
+P<sub>3</sub> = P<sub>2</sub> (λ<sub>2</sub>/λ<sub>3</sub>) sin²√\[ η<sub>SFG</sub> L² P<sub>1</sub> (λ<sub>3</sub>/λ<sub>2</sub>) \]
+
+or
+
+P<sub>2</sub> = P<sub>3</sub> (λ<sub>3</sub>/λ<sub>2</sub>) sin²√\[ η<sub>SFG</sub> L² P<sub>1</sub> (λ<sub>3</sub>/λ<sub>2</sub>) \]
 
 Estimate QE with output loss of λ<sub>3</sub>:
 
