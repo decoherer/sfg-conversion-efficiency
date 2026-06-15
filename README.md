@@ -271,3 +271,11 @@ Solving for γL we have γL = cosh⁻¹√(P₃/P₀), or
 η L² = (1/P₃) (λ₁/λ₃) (λ₂/λ₃) [cosh⁻¹√(P₃/P₀)]²
 
 As specific example, assume P₀ = 1mW, ρ = 1nJ, τ = 1ps, and (λ₁/λ₃)(λ₂/λ₃) ≈ 4. Then P₃ = 1kW, P₃/P₀ ≈ 10⁶, and η L² ≈ (1/P₃) 4 [cosh⁻¹(10³)]² = 23%/W. Keep in mind that L must be less than the walkoff distance.
+
+One often sees the gain defined as
+
+G = cosh²(γL)
+
+In terms of the SFG conversion efficiency we can write this as
+
+G = cosh²√[η L² P₃ (λ₃/λ₁) (λ₃/λ₂)]
