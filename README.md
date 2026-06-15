@@ -279,3 +279,7 @@ G = cosh²(γL)
 In terms of the SFG conversion efficiency we can write this as
 
 G = cosh²√[η L² P₃ (λ₃/λ₁) (λ₃/λ₂)]
+
+In the case of a degenerate interaction we can also write G = cosh²(r) where r is the dimensionless squeezing parameter which simplifies to r = √[¼ η<sub>SFG</sub> L² P₃] = √[η<sub>SHG</sub> L² P₃].
+
+
